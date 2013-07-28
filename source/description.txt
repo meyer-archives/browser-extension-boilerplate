@@ -1,0 +1,1 @@
+Description for browser-extension-boilerplate extension.
